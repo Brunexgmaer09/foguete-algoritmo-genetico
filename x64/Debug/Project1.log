@@ -1,3 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Project1.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
-  main.cpp
-  Project1.vcxproj -> C:\Users\bruno\source\repos\foguete 2d SDL\Debug\foguete.exe

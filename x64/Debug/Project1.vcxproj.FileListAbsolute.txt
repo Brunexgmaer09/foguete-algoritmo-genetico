@@ -1,2 +1,0 @@
-C:\Users\bruno\source\repos\Project1\x64\Debug\foguete.exe
-C:\Users\bruno\source\repos\foguete 2d SDL\x64\Debug\foguete.exe
